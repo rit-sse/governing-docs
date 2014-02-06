@@ -20,7 +20,7 @@ lifestyle or background.
 Code of Conduct
 ---------------
 As active members of the RIT community, advocates of software engineering, and
-future workers in the computing industry, the Society’s members are expected to
+future workers in the computing industry, the Society's members are expected to
 demonstrate the highest levels of personal and professional conduct.  
 
 At the core of all efforts as Society members, we will:
@@ -82,8 +82,8 @@ member:
 
 1. The candidate must be enrolled as a student at RIT or NTID. 
 2. The candidate must make at least one significant contribution to the
-   betterment or continuation of the Society. The details of a “significant
-   contribution” shall be determined by the current Primary Officers’ Policy.
+   betterment or continuation of the Society. The details of a "significant
+   contribution" shall be determined by the current Primary Officers' Policy.
 
 Students who are active members in the term prior to participating in co-op,
 study abroad, or other student learning opportunities as a degree requirement
@@ -104,7 +104,7 @@ Alumni membership.
 2. The candidate must have earned Active membership while at RIT or NTID.
 3. The candidate must have applied for alumni membership within six months of
    leaving RIT or NTID. Alumni membership can also be granted after the six
-   month time period upon approval of the Primary Officers. The Officers’
+   month time period upon approval of the Primary Officers. The Officers'
    Policy shall specify the application process for Alumni membership.
 
 
@@ -113,7 +113,7 @@ Alumni membership.
 #### Rights
 Temporary members of the SSE are not permitted to participate in votes,
 elections, or petitions. These members shall not be included in any count of
-the Society’s members for the purposes of voting, elections, or petitions. All
+the Society's members for the purposes of voting, elections, or petitions. All
 other rights shall be determined by the Primary Officers.
 
 #### Requirements
@@ -134,11 +134,11 @@ Membership may be removed only by a vote among the Primary Officers. Should a
 Primary Officer feel a member is not acting in the spirit of the SSE
 Constitution and its ideals, it is the responsibility of the Primary Officer to
 start a discussion with the other Primary Officers detailing the nature of the
-member’s actions and reasons for removal of membership. This discussion shall
+member's actions and reasons for removal of membership. This discussion shall
 be concluded with a vote among the Primary Officers for or against the
 placement of the candidate on a probationary period, the length of which shall
 be determined at the discretion of the Primary Officers based on the nature of
-the candidate’s behavior. Should a decision in favor of probation be reached,
+the candidate's behavior. Should a decision in favor of probation be reached,
 the candidate shall be informed of the verdict and their probationary period
 shall begin. Should this not be reached, the candidate shall informed of the
 nature of the discussion.
@@ -159,9 +159,9 @@ officers, is responsible for the initiation and execution of ideas and
 discussions that further the goals of the Society.
 
 ### Primary Officers
-The Primary Officers are leaders elected by the Society’s members to direct the
+The Primary Officers are leaders elected by the Society's members to direct the
 organization. Detailed responsibilities for each position shall be recorded in
-the Primary Officers’ Policy.
+the Primary Officers' Policy.
 
 #### Positions
 
@@ -171,7 +171,7 @@ leader of the organization, they are responsible to see that the society
 improves and progresses over the course of their presidency.
 
 ##### Vice President
-The Vice President’s responsibilities shall support the president and their
+The Vice President's responsibilities shall support the president and their
 goals as they pertain to the Society.
 
 ##### Secretary
@@ -213,14 +213,14 @@ vacant position shall be fulfilled by the remaining Primary Officers.
 ### Committees
 Committees may be formed to delegate responsibility for tasks within the
 Society. The internal structure of committees shall be specified in the Primary
-Officer’s Policy. Committee Heads shall be appointed by Primary Officers, and
-shall be listed in the Primary Officers’ Policy each year. No committee may
+Officer's Policy. Committee Heads shall be appointed by Primary Officers, and
+shall be listed in the Primary Officers' Policy each year. No committee may
 have more than one Head at any time.
 
 #### Committee Heads
 Committee Heads are leaders that handle tasks and responsibilities related to a
 specific committee of the Society. The responsibilities and goals of each
-Committee Head are also listed in the Primary Officers’ Policy.
+Committee Head are also listed in the Primary Officers' Policy.
 
 Committee Head appointments terminate with the period of office of the primary
 officers who chose them.
@@ -229,7 +229,7 @@ officers who chose them.
 Committee heads may be removed by the Primary Officers for failing to fulfill
 the responsibilities of their position. The Primary Officers may vote to place
 the Committee Head on a probationary period, the length of which should be
-determined based on the nature of the Committee Head’s behavior. Should a
+determined based on the nature of the Committee Head's behavior. Should a
 decision be reached, the candidate shall be informed of the verdict and the
 probationary period shall begin.
 
@@ -270,8 +270,8 @@ Vice President  | 3             | 1 academic term
 Treasurer       | -             | 1 academic term
 Secretary       | -             | - 
 
-“Year level” is measured by credits obtained, following the scale published by
-the RIT Office of the Registrar.  “Prior involvement” refers to the number of
+"Year level" is measured by credits obtained, following the scale published by
+the RIT Office of the Registrar.  "Prior involvement" refers to the number of
 complete academic terms during which the candidate served as a Primary Officer
 or Committee Head.  
 
@@ -331,7 +331,7 @@ Primary Officer positions concurrently.
 
 ### Nomination Process
 Nominations for Committee Heads may be held for any vacancy. Nominations should
-be held immediately after the Primary Officers’ election at the end of each
+be held immediately after the Primary Officers' election at the end of each
 academic year. Any member may submit nominations for Committee Heads. All
 candidates must accept a nomination before they are selected for the position. 
 
@@ -381,18 +381,18 @@ policies, and structure for the part of the Society under their governance for
 the year.  The policy may be modified at any time.  All policies must be made
 freely available to Society members for review.
 
-### Primary Officers’ Policy
+### Primary Officers' Policy
 
 The Primary Officers of the Society are required to maintain a Primary
 Officers' Policy document that defines the specific structure, goals, and rules
 of the Society for the year. This document may be adopted from the previous
-year’s Primary Officers, or can be rewritten to meet the needs of the Society.
+year's Primary Officers, or can be rewritten to meet the needs of the Society.
 Any powers, rules, or regulations not specified in this document may be
 clarified through the Primary Officers' Policy.
 
 ### Financial Policy
 
-The Financial Policy is an independent document from the Primary Officers’
+The Financial Policy is an independent document from the Primary Officers'
 Policy and is created and maintained by the Treasurer of the Society. The
 purpose of the Financial Policy shall define procedures to help the Treasurer
 maintain clear and complete records of financial transactions that occur within
