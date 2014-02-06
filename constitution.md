@@ -79,6 +79,7 @@ any benefits.
 
 A candidate must satisfy all of the following requirements to be an active
 member: 
+
 1. The candidate must be enrolled as a student at RIT or NTID. 
 2. The candidate must make at least one significant contribution to the
    betterment or continuation of the Society. The details of a “significant
