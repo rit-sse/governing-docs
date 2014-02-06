@@ -48,6 +48,7 @@ The SSE has 8 committees:
 
 ### Mentoring
 Head: Benjin Dubishar
+
 Goals:
 
 * Work with mentors and past mentoring heads to adapt the review session tests
@@ -60,6 +61,7 @@ Goals:
 
 ### Public Relations
 Head: Corban Mailloux
+
 Goals:
 
 * Build a committee that can maintain regular weekly meetings
@@ -69,6 +71,7 @@ Goals:
 
 ### Technology
 Head: Dan Wallach
+
 Goals:
 
 * Build our own independent infrastructure
@@ -76,6 +79,7 @@ Goals:
 
 ### Events
 Head: John Renner
+
 Goals:
 
 * Build a committee to help run events
@@ -86,6 +90,7 @@ Goals:
 
 ### Fundraising
 Head: Shayde Nofziger
+
 Goals:
 
 * Continue to set up, use, improve the system developed last year to track
@@ -96,6 +101,7 @@ Goals:
 
 ### Lab Upkeep
 Head: Steven Brunwasser
+
 Goals:
 
 * Set up a routine and guidelines for keeping the lab neat and orderly
@@ -104,6 +110,7 @@ Goals:
 
 ### Projects
 Head: Michael Timbrook
+
 Goals:
 
 * Create a submissions portal to better collect project ideas
@@ -114,6 +121,7 @@ Goals:
 
 ### ViSE
 Head: Ben Kantor
+
 Goals:
 
 * Have at least two ViSE talks per semester
