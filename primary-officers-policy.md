@@ -60,7 +60,7 @@ Goals:
   methods and knowledge over information to a specific application
 
 ### Public Relations
-Head: Corban Mailloux
+Head: Kocsen Chung
 
 Goals:
 
@@ -119,15 +119,11 @@ Goals:
   projects.
 
 
-### ViSE
-Head: Ben Kantor
+### Talks
+Head: Kristen Mills
 
 Goals:
 
-* Have at least two ViSE talks per semester
-* Hold weekly meetings to discuss current ViSE activities, plan new talks,
-  delegate work out, and anything elses related to the committee for that week.
-* Communicate what the committee has been doing to the rest of the club.
 
 Membership
 ----------
