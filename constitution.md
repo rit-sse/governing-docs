@@ -261,7 +261,7 @@ unfilled. Only one member can occupy any elected position at a time.
 
 ### Candidacy and Eligibility
 Candidates for Primary Officer roles in the Society must meet the following
-minimum requirements:
+requirements by the start of the term in which they would take office:
 
 Position        | Year level    | Prior involvement
 ----------------|---------------|------------------
