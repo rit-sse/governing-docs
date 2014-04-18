@@ -64,10 +64,17 @@ Head: Kocsen Chung
 
 Goals:
 
-* Build a committee that can maintain regular weekly meetings
-* Bring in and set up more company events, both from new companies and those
-  with which we already have strong relationships
-* Make sure that all documents and events are well organized
+* Manage and Successfully carry open houses
+* Help Faculty with any events within reasonable excuse
+* Concrete a PR Committee which will:
+  * Meet regularly (weekly at best)
+  * Provide with an Agent during general Hours in the Lab (10­4)
+  * Aid in events and managing connections
+* Manage, create and advertise events for companies at RIT
+* Provide the Lab with as much free pizza and swag as companies can supply
+* Make new connections by reaching out to new companies
+* Attend career fair
+  * Attempt to get people connected in hopes for getting them jobs! ● Keep CO­OP office in the loop
 
 ### Technology
 Head: Dan Wallach
@@ -118,11 +125,15 @@ Goals:
 * Have weekly meetings for larger projects and bi-monthly meetings for smaller
   projects.
 
-
 ### Talks
 Head: Kristen Mills
 
 Goals:
+
+* Have some form of a talk at every meeting.
+* Schedule at least 1 vise talk per semester
+* Have rand talks so that people who aren’t in technical majors can give talks
+* Have all talks recorded and put on the website
 
 
 Membership
