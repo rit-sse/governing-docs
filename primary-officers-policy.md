@@ -93,15 +93,18 @@ Goals:
 * Connect with other computing organizations with join events
 
 ### Fundraising
-Head: Shayde Nofziger
+Head: Justin Peterson
 
 Goals:
 
-* Continue to set up, use, improve the system developed last year to track
-  sales and spending
-* Look into new possible payment methods for the candy cabinet and merchandise
-* Work together with the head of events to create new fundraising events
-* Develop an organized process for purchasing and sales.
+* Solidify new strategies for fundraising now that the candy cabinet is gone
+  * Group fundraisers at local restaurants 
+  * Almuni rewards system for 'donations' to operating costs of the SSE
+  * Revamp of SSE swag items
+
+* Promote a group oriented approach to fundraising where committee members are actively involved
+* Contribute to the works of Events and PR to ensure funds raised are promoting the organization, and not just maintaining the current state of the lab
+
 
 ### Lab Upkeep
 Head: Steven Brunwasser
