@@ -85,15 +85,13 @@ Goals:
 * Support projects and other technology needs within the Society
 
 ### Events
-Head: John Renner
+Head: Wade Mauger
 
 Goals:
 
-* Build a committee to help run events
-* Delegate larger aspects of events to other committee members
-* Be present for as many events as possible
-* Keep members better informed about events that are happening.
-* Hold more smaller events
+* Plan and execute events regularly
+* Encourage a sense of community in the society by providing social gatherings in and out of the lab
+* Connect with other computing organizations with join events
 
 ### Fundraising
 Head: Shayde Nofziger
