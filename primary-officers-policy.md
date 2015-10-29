@@ -59,21 +59,21 @@ Goals:
   methods and knowledge over information to a specific application
 
 ### Public Relations
-Head: Kocsen Chung
+Head: Dominic Cicilio
 
 Goals:
 
-* Manage and Successfully carry open houses
+* Manage and successfully carry open houses
 * Help Faculty with any events within reasonable excuse
 * Concrete a PR Committee which will:
-  * Meet regularly (weekly at best)
-  * Provide with an Agent during general Hours in the Lab (10­4)
+  * Meet regularly (weekly is best)
+  * Ask PR Agents to try to be in the lab during mentoring hours
   * Aid in events and managing connections
+  * Aid in company emails and visits
 * Manage, create and advertise events for companies at RIT
-* Provide the Lab with as much free pizza and swag as companies can supply
+* Provide the lab with as much free pizza and swag as companies can supply
 * Make new connections by reaching out to new companies
-* Attend career fair
-  * Attempt to get people connected in hopes for getting them jobs! ● Keep CO­OP office in the loop
+* Keep CO­OP office in the loo (aka Jill)
 
 ### Technology
 Head: Dan Wallach
