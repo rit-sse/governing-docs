@@ -60,7 +60,7 @@ Goals:
   methods and knowledge over information to a specific application
 
 ### Public Relations
-Head: Kocsen Chung
+Head: Dominic Cicilio
 
 Goals:
 
