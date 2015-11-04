@@ -76,12 +76,12 @@ Goals:
 * Keep CO­OP office in the loo (aka Jill)
 
 ### Technology
-Head: Dan Wallach
+Head: Kristen Mills
 
 Goals:
 
-* Build our own independent infrastructure
-* Support projects and other technology needs within the Society
+* Get everything deployed
+* Make managing technology super easy
 
 ### Events
 Head: Wade Mauger
