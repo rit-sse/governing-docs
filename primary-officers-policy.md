@@ -9,15 +9,14 @@ Constitution.
 
 Goals
 -----
-Our primary goals for the 2013 academic year are to:
+Our primary goals for the 2015-2016 academic year are to:
 
-* Continue to strengthen the areas of the Society that have been successful
-* Bring all the Society's efforts to the same high standard that our successful
-  endeavors have set
-* Strengthen the Society's standing with the RIT and software engineering
-  communities
-* Adapt the Society to the institute's new calendar
-* Continue to grow the Society's membership
+* Strengthen our relationship with the RIT Software Engineering Department
+* Make the Society financially sound without the candy cabinet
+* Promote continuity from year to year
+* Ensure that the lab remains an academically-focussed space
+* Be able to provide documentation of what is done during the year
+  * This includes all committee heads
 
 Primary Officer Responsibilities
 --------------------------------
