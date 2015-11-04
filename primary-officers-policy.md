@@ -43,7 +43,7 @@ Primary Officer Responsibilities
 Committees
 ----------
 
-The SSE has 8 committees:
+The SSE has 9 committees:
 
 ### Mentoring
 Head: Matt Mokary
@@ -134,6 +134,15 @@ Goals:
 * Create Facebook events and flyers for every talk
 * Hold non-technical talks as well as tech talks
 * Have all talks Live Streamed and uploaded on YouTube
+
+### Winter Ball
+Head: Kayla Nussbaum
+
+* Plan and satisfy all expectations for the annual Winter Ball event
+* Adequately broadcast information about the event to all SE faculty, staff,
+  alumni, and students
+* Construct an event that delights all of the officers' ideas and SSE event
+  traditions
 
 Membership
 ----------
