@@ -126,15 +126,14 @@ Goals:
   projects.
 
 ### Talks
-Head: Kristen Mills
+Head: Colin Fausnaught
 
 Goals:
 
-* Have some form of a talk at every meeting.
-* Schedule at least 1 vise talk per semester
-* Have rand talks so that people who aren’t in technical majors can give talks
-* Have all talks recorded and put on the website
-
+* Hold a talk every week
+* Create Facebook events and flyers for every talk
+* Hold non-technical talks as well as tech talks
+* Have all talks Live Streamed and uploaded on YouTube
 
 Membership
 ----------
