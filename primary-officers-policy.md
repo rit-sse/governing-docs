@@ -46,17 +46,17 @@ Committees
 The SSE has 8 committees:
 
 ### Mentoring
-Head: Benjin Dubishar
+Head: Matt Mokary
 
 Goals:
 
-* Work with mentors and past mentoring heads to adapt the review session tests
-  to the semester-course curricula.
-* Work with professors to better understand the adaptations of the
-  quarter-courses to the semester-courses
-* Continue working with mentors and head of lab upkeep to keep the lab clean 
-* Work with mentors for a less-direct tutoring method that stresses teaching
-  methods and knowledge over information to a specific application
+* Keep the testing cabinet as relevant as possible by enticing a steady flow of
+  new exams and removing outdated exams.
+* Develop relationships between the SSE and Computer Science professors to help
+  with advertising non-SE review sessions.
+* Empower mentors to be the authority figures in the lab.
+* Promote a more academic environment in the lab during mentoring hours.
+* Refine process for estimating attendance at review sessions.
 
 ### Public Relations
 Head: Dominic Cicilio
