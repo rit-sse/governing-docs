@@ -21,24 +21,39 @@ Our primary goals for the 2015-2016 academic year are to:
 Primary Officer Responsibilities
 --------------------------------
 ### President
+John Renner
+
 * Run the Society
 * Interact with Software Engineering department and the GCCIS leadership
 
 ### Vice President
+Brian Besmanoff
+
 * Help the President run the Society
-* Work with committees on a regular basis to help them succeed
+* Support committee heads by being available to help at events
 
 ### Treasurer
-* Track current funds for SSE main bank account and projects bank account 
-* Approve all financial transactions for the organization 
-* Maintain who is allowed to make transactions with the SSE procurement card
-* Make bank deposits on a regular basis
-* Oversee fundraising head
+Ben Kantor
+
+* Improve the process for making purchases such that is easier and more
+  transparent.
+* Improve financial record keeping such that it allows for efficient analysis of
+  SSE spending.
+* Create awareness of financial best practices among officers and committee
+  heads.
+* Prevent financial collapse.
+* Maintain good relations with the SE Department. 
 
 ### Secretary
-* Document the Society
-* Track membership
-* Keep the Society's members informed with current events and news
+Jesse Jurman
+
+* Ensure communications channels exist between officers, mentors, project leads,
+  and members
+* Track Membership
+* Ensure members are informed through colorful, sometimes animated, slides on a
+  regular basis
+* Ensure officers are able to use the social networks and other tools set up by
+  the SSE
 
 Committees
 ----------
