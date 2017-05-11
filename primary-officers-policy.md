@@ -82,7 +82,6 @@ The SSE currently has officers in charge of the following committees:
 ### Events
 
 * Build a committee to help run events
-* Delegate larger aspects of events to other committee members
 * Be present for as many events as possible
 * Keep members better informed about events that are happening
 * Hold more smaller events
