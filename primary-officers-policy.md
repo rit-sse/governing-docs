@@ -65,7 +65,7 @@ The SSE currently has officers in charge of the following committees:
 
 ### Student Outreach
 
-* Manage and organize carry open houses and prospective student events
+* Manage, organize, and carry out open houses and prospective student events
 * Organize and prepare a committee of students to represent the Society at these events
 
 ### Branding
