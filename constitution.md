@@ -107,6 +107,8 @@ Alumni membership.
    month time period upon approval of the Primary Officers. The Officers'
    Policy shall specify the application process for Alumni membership.
 
+#### Alumni Committees
+Alumni are alound to ad-hoc create alumni commitees for the benifit of the society. There will be a 6 month evaluation period before the primary officers can shutdown the operations of the commitee. The alumni are aloud to apeal if reasonable doubt exists. Apeals follow standard society hearing practices.
 
 ### Temporary Membership
 
