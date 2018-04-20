@@ -86,8 +86,10 @@ member:
    contribution" shall be determined by the current Primary Officers' Policy.
 
 Students who are active members in the term prior to participating in co-op,
-study abroad, or other student learning opportunities as a degree requirement
-shall maintain their membership status for the duration of their time away.
+study abroad, other student learning opportunities, medical leave, or other
+justified absence from campus as determined by a majority vote of the Primary
+Officers, shall maintain their membership status for the duration of their
+time away.
 
 ### Alumni Membership
 
@@ -191,7 +193,8 @@ purchased are used in a responsible way.
 For annual elections, the period of office begins at the end of the spring
 academic term. For any other elections, the period of office begins
 immediately. Periods of office conclude at the end of the spring academic term
-in the year for which the officer serves. 
+in the year for which the officer serves. Officers who no longer meet the
+candidacy requirements for office must resign.
 
 #### Impeachment
 Primary officers may only be removed by the completion of a petition started by
@@ -276,8 +279,14 @@ complete academic terms during which the candidate served as a Primary Officer
 or Committee Head.  
 
 All Primary Officers must be enrolled as full or part-time Software Engineering
-students attending classes at the RIT campus in Rochester, NY for the duration
-of their term. 
+students attending classes at the RIT campus in Rochester, NY.
+
+Candidates for President and Vice President must both plan to remain enrolled
+and on-campus for the entire academic year for which they are to serve.
+Candidates for Secretary and Treasurer must both plan to remain enrolled and
+on-campus for at least the most immediate academic term for which they are to
+serve.
+
 
 ### Collection and Acceptance of Nominations
 
