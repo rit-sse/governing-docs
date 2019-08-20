@@ -273,14 +273,7 @@ Vice President  | 3             | 1 academic term
 Treasurer       | -             | 1 academic term
 Secretary       | -             | - 
 
-"Year level" is measured by credits obtained, following the scale published by
-the RIT Office of the Registrar.  “Prior Involvement” refers to the number of
-complete academic terms during which the candidate served as a Primary Officer
-or Committee Head. In the event a candidate has not previously served as a
-Primary Officer or Committee Head, two complete academic terms during which the
-candidate served as a Mentor with the society may be substituted to serve as one
-term of “Prior Involvement”. No more than one term of “Prior Involvement” earned
-through mentorship may be substituted as the requirements for any office.
+“Year level” is counted by the lower of [A] years enrolled at least part-time in a higher-education institution post high school graduation, or [B] by RIT credits obtained following the scale published by the RIT Office of the Registrar.  “Prior Involvement” refers to the number of complete academic terms during which the candidate served as a Primary Officer or Committee Head. In the event a candidate has not previously served as a Primary Officer or Committee Head, two complete academic terms during which the candidate served as a Mentor with the society may be substituted to serve as one term of “Prior Involvement”. No more than one term of “Prior Involvement” earned through mentorship may be substituted as the requirements for any office.
 
 All Primary Officers must be enrolled as full or part-time Software Engineering
 students attending classes at the RIT campus in Rochester, NY.
@@ -427,12 +420,27 @@ in elections for Primary Officers.
 
 Amendments
 ----------
-Any Active member of the Society may propose an amendment to this constitution.
-The text for the amendment should be presented in writing at the time of its
-proposal. No fewer than two-thirds of the votes must approve the ratification
-amendment, with a minimum of two-thirds of the Society participating in the
-vote.
+Any Active member of the Society may propose an amendment to this constitution at any point, to be voted on during the next regularly scheduled election.
 
-All amendments added to this constitution shall override and overrule any and
-all statements within this document prior to the addition date of the
-amendment.
+### Mandatory Public Forum Period
+The process of drafting an amendment shall be at the discretion of the author. The final text for the amendment must be presented in writing to a club advisor or primary officer no later than one week prior to the vote opening. All proposed amendments to be included in a general election must be made available in public view for a public forum allowing optionally anonymous comments. The forum must be moderated by the Primary Officers, ultimately managed by the Secretary. 
+
+It is recommended, but not required, that amendment authors consult a primary officer or advisor prior to proposal.
+
+### Voting Procedure
+No fewer than two-thirds of the votes must approve the ratification
+amendment, with a minimum of two-thirds of the Society participating in the vote. 
+
+The amendment ballot must include:
+ * The final text of the amendment
+ * A prompt indicating that an “Approve” vote will amend the Constitution with the proposed additions and removals indicated here; a “Reject”  vote will not change the current text of the Constitution.
+ * An option to select exclusively “Approve” or “Reject”
+
+Academic advisors may choose to require the inclusion of an interpretation of the proposed amendment also be included on the ballot. This must be indicated clearly as the opinion of the department on the topic, as supplementary information.
+
+All amendments added to this constitution shall override and overrule any and all statements within this document prior to the addition date of the amendment.
+
+The new or continuing Primary Officers must implement changes in the organization in accordance with the amendment by the start of the following semester.
+
+### Amendment-Only Elections
+In a semester in which no primary officer positions require an election, and amendments have been proposed by the ninth week of classes, an amendment-only election must be run. The process for this is at the discretion of the Primary Officers.
