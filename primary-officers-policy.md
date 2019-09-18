@@ -9,16 +9,13 @@ Constitution.
 
 Goals
 -----
-Our primary goals for the 2017/2018 academic year are to:
+Our primary goals for the 2019/2020 academic year are to:
 
 * Continue to strengthen the areas of the Society that have been successful
-* Bring all the Society's efforts to the same high standard that our successful
-  endeavors have set
-* Strengthen the Society's standing with RIT, the Software Engineering Department,
-  and software engineering communities
-* Continue to grow the Society's membership
-* Continue to improve the Society's mentoring services
-* Adapt the Society to the institute's new calendar
+* Strengthen the Society's image within RIT, the Software Engineering Department, and software engineering communities
+* Continue to grow the Society's membership, especially with new students
+* Continue to provide quality mentoring services
+* Encourage a transparent organization
 
 Primary Officer Responsibilities
 --------------------------------
@@ -41,21 +38,25 @@ Primary Officer Responsibilities
 * Document the Society
 * Track membership
 * Keep the Society's members informed with current events and news
+* Manage the Society's brand throughout RIT
+* Organize the design and sale of merchandise with the Society's branding
 
 Committees
 ----------
 
 The SSE currently has officers in charge of the following committees:
 
-### Mentoring
+### Mentoring Hours
 
-* Work with mentors and past mentoring heads to adapt the review session tests
-  to the semester-course curricula
-* Work with professors to better understand the adaptations of the
-  quarter-courses to the semester-courses
-* Continue working with mentors and head of lab upkeep to keep the lab clean 
-* Work with mentors for a less-direct tutoring method that stresses teaching
-  methods and knowledge over information to a specific application
+* Continue working with mentors and Lab Ops to keep the lab clean 
+* Work with mentors for a less-direct tutoring method that stresses teaching methods and knowledge over information to a specific application
+* Handle the mentoring schedule
+
+### Review Sessions
+
+* Work with mentors to update and create review session tests
+* Maintain the test cabinet
+* Collaborate with professors to ensure practice tests are in line with the current curriculum
 
 ### Public Relations
 
@@ -65,66 +66,57 @@ The SSE currently has officers in charge of the following committees:
 
 ### Student Outreach
 
+* Coordinate the Society’s section of Academic Day (Orientation)
 * Manage, organize, and carry out open houses and prospective student events
 * Organize and prepare a committee of students to represent the Society at these events
 
-### Branding
-
-* Manage the Society's brand throughout RIT
-* Organize the design and sale of merchandise with the Society's branding
-
 ### Technology
 
-* Build our own independent infrastructure
-* Organize a committee of students to aid in development and maintainence
+* Maintain our infrastructure
+* Organize a committee of students to aid in the development and maintenance of the technology stack
 * Support projects and other technology needs within the Society
 
 ### Events
 
 * Build a committee to help run events
 * Be present for as many events as possible
-* Keep members better informed about events that are happening
-* Hold more smaller events
+* Keep members informed about events that are happening
+* Host a variety of events that cater to the current members’ interests
 
-### Winterball
+### Winter Ball
 
 * Plan and execute a formal social event to take place at the end of the fall semester
 * Organize and lead a committee of event planners to support them doing this
-
-### Historian
-
-* Create and maintain a repository of historical knowledge
-* Reach out to alumni for reports of the society's past
-* Collect and organize information and media of the semester in progress
-* Present annual and historical information in various forms as deemed appropriate
 
 ### Laboratory Operations
 
 * Set up a routine and guidelines for keeping the lab neat and orderly
 * Build a committee dedicated to organizing the lab
-* Hold events to improve the aesthetics of the lab
+* Get supplies for the lab when needed
 
 ### Projects
 
-* Create a submissions portal to better collect project ideas
-* Organize projects into categories based on support and funding needed
-* Have weekly meetings for larger projects and bi-monthly meetings for smaller
-  projects
+* Handle project proposals
+* Liaison between individual project heads and the Society
+* Have weekly meetings for larger projects and bi-monthly meetings for smaller projects
 
 ### Talks
 
-* Schedule a talk presentation on a nearly weekly basis
-* Have all talks recorded and posted on some internet venue (youtube, facebook, etc)
+* Coordinate frequent talk presentations
+* Have all talks recorded and posted to Facebook
 
 Membership
 ----------
-Each prospective member must complete one “significant contribution” to the
-Society, which includes but is not limited to:
+Each prospective member must complete one “significant contribution” to the Society, which includes but is not limited to:
 
 * Serving as a Primary Officer or Committee Head
-* Significantly assisting with events
+* Serving as a mentor
+* Significantly assisting with events, including Winter Ball
 * Actively contributing to a project
-* Serving on the mentoring schedule
+* Helping clean the lab with Lab Ops
+* Participating in an Open House
+* Giving a talk
+* Donating exams
 
 For activities that occur within a committee, the Committee Head shall
 determine whether the individual's contribution is significant enough to
@@ -133,6 +125,5 @@ individual tasks directly related to their appointed job.
 
 Alumni Membership Application
 -----------------------------
-Alumni may apply for Alumni Membership by contacting the Secretary until a more
-permanent application process is established.
+Alumni may apply for Alumni Membership by contacting the Secretary. 
 
