@@ -1,5 +1,7 @@
-Governing Documents
+Governing Documents [Deprecated]
 ===================
+Note: this is no longer maintained. These documents now live in OneRepoToRuleThemAll/app/markdown/governing-docs/.
+
 This repository publishes and archives governing documents used by the Society
 of Software Engineers.
 
