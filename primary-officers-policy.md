@@ -114,7 +114,7 @@ The SSE currently has officers in charge of the following committees:
 
 ### Marketing
 
-* Post Slack announcements
+* Post discord announcements
 * Maintain social media (FB, twitter, instagram)
 * Collect pictures
 * Design and post posters
