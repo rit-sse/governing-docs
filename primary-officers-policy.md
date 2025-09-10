@@ -9,7 +9,7 @@ Constitution.
 
 Goals
 -----
-Our primary goals for the 2019/2020 academic year are to:
+Our primary goals are to:
 
 * Continue to strengthen the areas of the Society that have been successful
 * Strengthen the Society's image within RIT, the Software Engineering Department, and software engineering communities
