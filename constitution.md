@@ -103,6 +103,7 @@ time away.
 
 ### Alumni Membership
 
+
 #### Rights
 Alumni members of the SSE are not permitted to participate in votes, elections,
 or petitions. All other rights shall be determined by the Primary Officers.
