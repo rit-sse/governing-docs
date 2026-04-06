@@ -1,7 +1,10 @@
 SSE Constitution
 ================
 
-Mission Statement
+hello
+
+Missio
+
 -----------------
 The Society of Software Engineers (SSE) is a student organization dedicated to
 fostering academic and professional success. Its focus is on four fundamental
