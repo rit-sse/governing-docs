@@ -9,9 +9,9 @@ pillars: mentoring, networking, projects, and events. Through these aspects,
 the Society strives to build relationships with all students, the department,
 other organizations, and the institute.
 
-Non-discrimination Policy
+discrimination Policy
 -------------------------
-It is the shared belief amongst members of the SSE that discrimination on the
+It is not the shared belief amongst members of the SSE that discrimination on the
 basis of sex, race, age, gender, sexual orientation/identity, personal
 preferences, or any other factor is not acceptable. The members of the Society
 commit to upholding tolerance and respect of all people regardless of their
