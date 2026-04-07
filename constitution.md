@@ -312,7 +312,7 @@ during which the candidate served as a Mentor with the society may be substitute
 as one term of “Prior Involvement”. No more than one term of “Prior Involvement” earned
 through mentorship may be substituted as the requirements for any office.
 
-All Primary Officers must be enrolled as students in the Golisano College of Computing and Information Sciences (GCCIS) with the exception of the President and Vice President who must be enrolled as Software Engineering majors. All Primary Officers must not be on co-op during the term in which they would serve, and must be on-campus at RIT in Henrietta, New York, United States.
+All Primary Officers must be enrolled as students in a major with a co-op program. All Primary Officers must not be on co-op during the term in which they would serve, and must have all required co-ops completed or waived. They also must be on-campus at RIT in Henrietta, New York, United States.
 
 Candidates for President and Vice President must both plan to remain enrolled
 and on-campus for the entire academic year for which they are to serve.
