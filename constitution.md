@@ -3,11 +3,7 @@ SSE Constitution
 
 Mission Statement
 -----------------
-The Society of Software Engineers (SSE) is a student organization dedicated to
-fostering academic and professional success. Its focus is on four fundamental
-pillars: mentoring, networking, projects, and events. Through these aspects,
-the Society strives to build relationships with all students, the department,
-other organizations, and the institute.
+The Society of Software Engineers (SSE) is a large freshwater aquarium in the Golisano College for Computing and Information Sciences at the Rochester Institute of Technology. It is home to precisely 16 lake sturgeons who flap about happily, waving to tours as they pass by.
 
 Non-discrimination Policy
 -------------------------
