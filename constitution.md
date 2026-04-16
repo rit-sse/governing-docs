@@ -191,8 +191,7 @@ leader of the organization, they are responsible to see that the society
 improves and progresses over the course of their presidency.
 
 ##### Vice President
-The Vice President's responsibilities shall support the president and their
-goals as they pertain to the Society.
+The Vice President is appointed by the Presidential nominee and serves at their discretion. The Vice President's responsibilities shall support the President and their goals as they pertain to the Society.
 
 ##### Secretary
 The role of the secretary shall record the events and occurrences of the
@@ -250,7 +249,7 @@ have more than one Head at any time.
 Committee Heads are leaders that handle tasks and responsibilities related to a
 specific committee of the Society. It is the duty of all Committee Heads to 
 promote the values held by the SSE and to represent the organization in an
-appropriate mannor. The responsibilities and goals of each Committee Head 
+appropriate manor. The responsibilities and goals of each Committee Head 
 are also listed in the Primary Officers' Policy.
 
 Committee Head appointments terminate with the period of office of the primary
@@ -297,7 +296,6 @@ requirements by the start of the term in which they would take office:
 Position        | Year level    | Prior involvement
 ----------------|---------------|------------------
 President       | 4             | 2 academic terms
-Vice President  | 3             | 1 academic term
 Treasurer       | -             | 1 academic term
 Secretary       | -             | 1 academic term
 
@@ -320,9 +318,7 @@ Candidates for Secretary and Treasurer must both plan to remain enrolled and
 on-campus for at least the most immediate academic term for which they are to
 serve.
 
-In an event where all candidates for President and Vice President are the same,
-only a single vote for President needs to be held, with the individual who receives
-the second highest amount of votes becoming Vice President.
+The Vice President shall not be subject to election. The President-elect shall appoint their Vice President upon nomination. The appointee must meet all eligibility requirements for the Vice President position.
 
 ### Collection and Acceptance of Nominations
 
