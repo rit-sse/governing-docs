@@ -207,6 +207,13 @@ SSE. As such, they must grant members the permission to use SSE funds, ensure
 all financial transactions are recorded properly, oversee merchandise sales and distribution,
 and see that funds and items purchased are used in a responsible way. 
 
+##### Mentoring Head
+The mentoring head is responsible for all volunteer mentoring matters that happen on behalf 
+of the SSE. This includes: conducting mentor training, hosting and creating materials for 
+review sessions, hosting an end-of-year mentor appreciation dinner, and ensuring the 
+functionality of the exam  cabinet according to the Society's and the university's exam 
+check-out policy.
+
 #### Period of Office
 For annual elections, the period of office begins at the end of the spring
 academic term. For any other elections, the period of office begins
@@ -300,6 +307,7 @@ President       | 4             | 2 academic terms
 Vice President  | 3             | 1 academic term
 Treasurer       | -             | 1 academic term
 Secretary       | -             | 1 academic term
+Mentoring Head  | -             | 1 mentor term
 
 “Year level” is counted by the lower of [A] years enrolled at least part-time in a
 higher-education institution post high school graduation, or [B] by credits obtained
