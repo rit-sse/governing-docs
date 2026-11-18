@@ -236,7 +236,7 @@ see that necessary parties have easy and constant access to relevant
 information.
 
 The Secretary is also responsible for the Society's communications and
-outreach. This includes marketing and promoting the Society and its events, and
+outreach. This includes marketing and promoting the Society, its events, and
 maintaining the Society's public presence, and public relations.
 
 ##### Treasurer
@@ -257,6 +257,8 @@ check-out policy.
 The Mentoring Head is also responsible for the Society's library, including
 maintaining and lending its books and other materials, and for running the
 Society's book club.
+
+The Mentoring Head shall select a mentor to serve as the Career Development Mentor. The Career Development Mentor shall provide career advice, resume reviews, and mock interviews to members of the RIT community.
 
 #### Period of Office
 
@@ -309,7 +311,7 @@ year. No committee may have more than one Head at any time.
 The Talks committee organizes talks hosted by the Society, including talks
 given by companies as well as talks given by students, faculty, alumni, and
 other speakers. The Talks Head shall maintain public relations, including
-outreach to and maintaining relationships with companies, sponsors, and otherexternal organizations.
+outreach to and maintaining relationships with companies, sponsors, and other external organizations.
 
 ##### Events
 
@@ -406,7 +408,8 @@ on-campus for at least the most immediate academic term for which they are to
 serve.
 
 The Vice President shall not be subject to election. The President-elect shall appoint their Vice President upon nomination. The appointee must meet all eligibility requirements for the Vice President position.
-The President has a one-year term
+
+The President has a one-year term.
 
 ### Collection and Acceptance of Nominations
 
