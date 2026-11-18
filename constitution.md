@@ -221,6 +221,12 @@ accumulated throughout their term. In addition, the Secretary is responsible to
 see that necessary parties have easy and constant access to relevant
 information.
 
+The Secretary is also responsible for the Society's communications and
+outreach. This includes marketing and promoting the Society and its events,
+maintaining the Society's public presence, and public relations, including
+outreach to and maintaining relationships with companies, sponsors, and other
+external organizations.
+
 ##### Treasurer
 The treasurer is responsible for all financial matters that happen on behalf of the
 SSE. As such, they must grant members the permission to use SSE funds, ensure
@@ -233,6 +239,12 @@ of the SSE. This includes: conducting mentor training, hosting and creating mate
 review sessions, hosting an end-of-year mentor appreciation dinner, and ensuring the 
 functionality of the exam  cabinet according to the Society's and the university's exam 
 check-out policy.
+
+The Mentoring Head is also responsible for the Society's library, including
+maintaining and lending its books and other materials, and for running the
+Society's book club.
+
+The Mentoring Head shall select a mentor to serve as the Career Development Mentor. The Career Development Mentor shall provide career advice, resume reviews, and mock interviews to members of the RIT community.
 
 #### Period of Office
 For annual elections, the period of office begins at the end of the spring
@@ -267,11 +279,38 @@ vacant position shall be fulfilled by the remaining Primary Officers.
 
 
 ### Committees
-Committees may be formed to delegate responsibility for tasks within the
-Society. The internal structure of committees shall be specified in the Primary
-Officer's Policy. Committee Heads shall be appointed by Primary Officers, and
-shall be listed in the Primary Officers' Policy each year. No committee may
-have more than one Head at any time.
+Committees delegate responsibility for tasks within the Society. The Society's
+standing committees are listed below. The Primary Officers may form additional
+committees as needed, and any such committees shall be listed in the Primary
+Officers' Policy. The internal structure of committees shall be
+specified in the Primary Officer's Policy. Committee Heads shall be appointed
+by Primary Officers, and shall be listed in the Primary Officers' Policy each
+year. No committee may have more than one Head at any time.
+
+#### Standing Committees
+
+##### Talks
+The Talks committee organizes talks hosted by the Society, including talks
+given by companies as well as talks given by students, faculty, alumni, and
+other speakers. The Talks Head shall coordinate with the Secretary when
+working with companies.
+
+##### Events
+The Events committee organizes the Society's social events, including its
+weekly Friday events.
+
+##### Projects
+The Projects committee supports student projects within the Society and
+organizes any hackathons the Society hosts or participates in.
+
+##### Tech
+The Tech committee maintains the Society's technology and technical
+infrastructure.
+
+##### Lab
+The Lab committee maintains the Society's lab space and its equipment, and
+preserves the history of the Society, including records and photos of its
+events.
 
 #### Committee Heads
 Committee Heads are leaders that handle tasks and responsibilities related to a
@@ -321,16 +360,13 @@ unfilled. Only one member can occupy any elected position at a time.
 Candidates for Primary Officer roles in the Society must meet the following
 requirements by the start of the term in which they would take office:
 
-Position        | Year level    | Prior involvement
-----------------|---------------|------------------
-President       | 4             | 2 academic terms
-Treasurer       | -             | 1 academic term
-Secretary       | -             | 1 academic term
-Mentoring Head  | -             | 1 mentor term
+Position        | Co-ops Completed | Prior involvement
+----------------|------------------|------------------
+President       | Yes              | 2 academic terms
+Treasurer       | -                | 1 academic term
+Secretary       | -                | 1 academic term
+Mentoring Head  | -                | 1 mentor term
 
-“Year level” is counted by the lower of [A] years enrolled at least part-time in a
-higher-education institution post high school graduation, or [B] by credits obtained
-at RIT following the scale published by RIT's Office of the Registrar.
 
 “Prior Involvement” refers to the number of complete academic terms during which the
 candidate served as a Primary Officer or Committee Head. In the event a candidate has
@@ -348,6 +384,7 @@ on-campus for at least the most immediate academic term for which they are to
 serve.
 
 The Vice President shall not be subject to election. The President-elect shall appoint their Vice President upon nomination. The appointee must meet all eligibility requirements for the Vice President position.
+The President has a one-year term limit.
 
 ### Collection and Acceptance of Nominations
 

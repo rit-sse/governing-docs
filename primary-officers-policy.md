@@ -40,35 +40,32 @@ Primary Officer Responsibilities
 * Track membership
 * Keep the Society's members informed with current events and news
 * Manage the Society's brand throughout RIT
+* Post Discord announcements
+* Maintain social media
+* Design and post posters
 
-Committees
-----------
-
-The SSE currently has officers in charge of the following committees:
-
-### Mentoring
-
-* Continue working with mentors and Lab Ops to keep the lab clean 
+### Mentoring Head
+* Continue working with mentors and the Lab committee to keep the lab clean
 * Work with mentors for a less-direct tutoring method that stresses teaching methods and knowledge over information to a specific application
 * Handle the mentoring schedule
 * Work with mentors to update and create review session tests
 * Maintain the test cabinet
 * Collaborate with professors to ensure practice tests are in line with the current curriculum
 * Collect statistics for review sessions and mentoring hours
+* Maintain the Society's library and handle book lending
+* Run the Society's book club (opt.)
+* Select a mentor to serve as the Career Development Mentor, who will:
+  * Give ongoing mock interviews
+  * Give resume reviews
+  * Give career advice, including alternative paths and career options for people in computing
 
-### Public Relations
+Committees
+----------
 
-* Create and maintain relationships with companies and recruiters
-* Maintain alumni relations
-* Organize and lead a committee of members to assist with these goals
+The SSE currently has officers in charge of the following committees. Any
+additional committees formed by the Primary Officers shall be listed here.
 
-### Student Outreach
-
-* Coordinate the Society’s section of Academic Day (Orientation)
-* Manage, organize, and carry out open houses and prospective student events
-* Organize and prepare a committee of students to represent the Society at these events
-
-### Technology
+### Tech
 
 * Maintain our infrastructure
 * Organize a committee of students to aid in the development and maintenance of the technology stack
@@ -80,17 +77,14 @@ The SSE currently has officers in charge of the following committees:
 * Be present for as many events as possible
 * Keep members informed about events that are happening
 * Host a variety of events that cater to the current members’ interests
+* Run the weekly Friday events
 
-### Winter Ball
-
-* Plan and execute a formal social event to take place at the end of the fall semester
-* Organize and lead a committee of event planners to support them doing this
-
-### Laboratory Operations
+### Lab
 
 * Set up a routine and guidelines for keeping the lab neat and orderly
 * Build a committee dedicated to organizing the lab
 * Get supplies for the lab when needed
+* Preserve the Society's history, including photos and records of events
 
 ### Projects
 
@@ -98,26 +92,15 @@ The SSE currently has officers in charge of the following committees:
 * Liaison between individual project heads and the Society
 * Have weekly meetings for larger projects and bi-monthly meetings for smaller projects
 * Coordinate projects and volunteers for Imagine RIT
+* Organize any hackathons the Society hosts or participates in
 
 ### Talks
 
-* Coordinate frequent talk presentations
-* Have all talks recorded and posted to Facebook
-
-### Career Development
-
-* Ongoing mock interviews
-* Resume reviews
-* Highlight alternative paths and career options for people in computing
+* Coordinate frequent talk presentations, including company talks
+* Have talks recorded and posted to socials
+* Create and maintain relationships with companies and recruiters
+* Maintain alumni relations
 * Slides in meetings for conferences, networking events
-* Slides with blurb from a co-op student about their experience
-
-### Marketing
-
-* Post discord announcements
-* Maintain social media (FB, twitter, instagram)
-* Collect pictures
-* Design and post posters
 
 Membership
 ----------
@@ -127,7 +110,7 @@ Each prospective member must complete one “significant contribution” to the 
 * Serving as a mentor
 * Significantly assisting with events, including Winter Ball
 * Actively contributing to a project
-* Helping clean the lab with Lab Ops
+* Helping clean the lab with the Lab committee
 * Participating in an Open House
 * Giving a talk
 * Donating exams
@@ -142,4 +125,4 @@ individual tasks directly related to their appointed job.
 
 Alumni Membership Application
 -----------------------------
-Alumni may apply for Alumni Membership by contacting the Secretary. 
+Alumni may apply for Alumni Membership by contacting the Secretary.
