@@ -1,5 +1,6 @@
 SSE Constitution
 ================
+Updated: 11/18/2026
 
 Mission Statement
 -----------------
@@ -36,9 +37,29 @@ At the core of all efforts as Society members, we will:
 Conduct prohibited by these policies is unacceptable in both the SSE facilities, as
 well as any related setting, such as off-campus social events.
 
-Reporting an Incident of Harrassment or Discrimination
+Adherence to University Policies
 ------------------------------------------------------
-The SSE encourages prompt reporting of all percieved incidents of discrimination, 
+### Hazing
+In accordance with Federal and State law ([§ 120.16-17](https://www.nysenate.gov/legislation/laws/PEN/120.16)), and University Policy ([D.18 Section IV-J](https://www.rit.edu/policies/d180#iv-student-code-of-conduct)),
+student clubs and organizations are prohibited from any hazing or hazing related activities. All
+student clubs and organizations are required to report all hazing incidents or activities they are in the
+presence of or have knowledge or awareness of. Hazing activities should be reported to RIT Public
+Safety by contacting the office at 585-475-2853 or by text at 585-205-8333. Other resources
+regarding hazing and hazing prevention can be found on the [RIT Hazing Prevention website](http://www.rit.edu/studentlife/student-conduct/hazing-prevention).
+
+### Anti-Discrimination Clause
+This organization shall not discriminate on the basis of sex, race, color, sexual orientation, gender
+identity and gender expression, religion, age, marital state, national origin, disability or veteran
+status. This policy will include but is not limited to, recruiting, membership, organization activities or
+opportunities to hold or run for club office.
+
+### Statement of Compliance with University regulations
+This organization shall comply with all university and Center for Campus Life policies and
+regulations, and local, state and federal laws.
+
+Reporting an Incident of Harassment or Discrimination
+------------------------------------------------------
+The SSE encourages prompt reporting of all perceived incidents of discrimination, 
 harassment, or retaliation, regardless of the offender's identity or position. It is
 the duty of all SSE Officers to report any incidents immediately via the preferred 
 mechanism of the university or the SE department. 
@@ -466,7 +487,7 @@ in elections for Primary Officers.
 Amendments
 ----------
 Any Active member of the Society may propose an amendment to this constitution at any point, 
-to be voted on during the next applicable election period. If deemed nessecary by the 
+to be voted on during the next applicable election period. If deemed necessary by the 
 Primary Officers and approved by the department advisor(s), the voting procedure can be held at 
 any point during the semester.
 
@@ -485,7 +506,7 @@ or Club Advisor prior to proposal.
 For all semantic changes, no fewer than two-thirds of the votes must approve the ratification
 amendment, with a minimum of two-thirds of the Society participating in the vote. Modification 
 to the SSE Constitution that does not affect the meaning of the document can be approved by a 
-concensus vote amongst the Primary Officers.
+consensus vote amongst the Primary Officers.
 
 
 The amendment ballot must include:
