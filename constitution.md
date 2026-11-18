@@ -237,7 +237,7 @@ information.
 
 The Secretary is also responsible for the Society's communications and
 outreach. This includes marketing and promoting the Society, its events, and
-maintaining the Society's public presence, and public relations.
+maintaining the Society's public presence.
 
 ##### Treasurer
 
